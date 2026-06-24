@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.egg-info/
+build/
+dist/
+
+# Screen recording is too large for git; keep it locally only.
+*.mov
