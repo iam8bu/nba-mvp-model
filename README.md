@@ -1,5 +1,7 @@
 # NBA MVP Prediction Model
 
+**[Try the live MVP Race Tracker →](https://nba-mvp-model-ucaq9prvervsm88xtagwot.streamlit.app/)**
+
 Predicting NBA MVP vote share from box-score and advanced stats, trained on 25 seasons of data (2000-01 to 2024-25) and validated against real Basketball-Reference MVP voting. Built for the **2025 FAS Technical Challenge**.
 
 Includes a live current-season MVP race prediction and an interactive "MVP Race Tracker" app.
